@@ -1,0 +1,170 @@
+header{
+    
+    background: linear-gradient(180deg, #010002 0%, rgba(0, 0, 0, 0) 100%);
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../B9A1-New-Year-New-Mission/resources/Banner\ Image.png'); 
+    width: 1320px;
+height: 600px;   
+}
+.baba{
+    margin-top: 0%;
+}
+.pera{
+    color: #ffffff;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+margin-top: 0%;
+padding-top: 200px;
+}
+.header{
+    width: 632px;
+    color: #ffffff;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+margin-left: 25%;
+}
+.text{
+    color: #F00;
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+margin-bottom: 40px;
+}
+.para{
+    color: #F00;
+text-align: center;
+font-family: inherit;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+margin-bottom: 0%;
+}
+.all{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.img{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+margin-left: 16%;
+}
+.omg{
+    color: #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+width: 642px;
+padding-top:172px;
+}
+
+.omg{
+    font-size: 60px;
+    font-weight: 900;
+line-height: 88px;
+margin-left: 10%;
+letter-spacing: 7.04px;
+margin-top: 0%;
+
+}
+.bg-img{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+    background-repeat: no-repeat;
+width: 1320px;
+height: 600px;
+flex-shrink: 0;
+display: flex;
+
+
+}
+.contribute{
+    color: rgba(255, 21, 21, 0.8);
+font-family: inherit;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+margin-left: 127px;
+margin-right: 497px;
+}
+.new-you{
+    margin: 80px auto;
+    margin-right: 30px;
+}
+.join-now{
+    margin-top: 0%;
+    margin-bottom: 300px;
+}
+.now{
+    margin-left: 13%;
+}
+.new-park{
+    text-align: center;
+    font-size: 32px;
+}
+span{
+    color: #F00;
+}
+.button{
+    padding: 16px 32px;
+    color: rgb(255, 255, 255);
+   font-size: medium;
+   background: #ff0000;
+}
+.hotel{
+    background: #efcfcf;
+    padding: 30px;
+}
+.offer{
+    font-size: 24px;
+    color: #F00;
+    margin-bottom: 0%;
+}
+.soon{
+    font-size: 42px;
+    margin-top: 0%;
+}
+.dolar{
+    font-size: 20px;
+    height: 120px;
+    width: 500px;
+}
+.url{
+    background-color: red;
+    border-radius: 363px;
+    padding: 20px;
+}
+.year{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0%;
+}
+.egg{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin-top: 0%;
+width: 276px;
+}
+.best{
+    display: flex;
+    gap: 60px;
+}
