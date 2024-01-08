@@ -166,5 +166,190 @@ width: 276px;
 }
 .best{
     display: flex;
-    gap: 60px;
+    gap: 40px;
 }
+.what{
+    color: #070211;
+
+margin-bottom: 0%;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-align: center;
+}
+span{
+    color: #F00;
+text-align: center;
+
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.spa{
+    color: #070211;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+margin-top: 0%;
+}
+.sale{
+    text-align: center;
+    gap: 100px;
+}
+.sit{
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+width: 1000px;
+margin-left: 14%;
+}
+.photo{
+    border-radius: 16px 16px 0px 0px;
+    background: url('../B9A1-New-Year-New-Mission/resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    margin-left: 60%;
+    width: 429px;
+height: 433px;
+flex-shrink: 0;
+}
+.boss{
+    display: flex;
+    gap: 0%;
+}
+nav > ul >li {
+    display: inline;
+}
+nav>ul{
+    margin-left: 400px;
+}
+.rltn{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/Rectangle\ 2.png');
+    width: 1320px;
+height: 229px;
+flex-shrink: 0;
+}
+.gift{
+    color: #F00;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0%;
+}
+.pro{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 2%;
+margin-bottom: 0%;
+}
+.pre{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+width: 1000px;
+margin-top: 0px;
+margin-bottom: 48px;
+}
+.with{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 424px;
+height: 450px;
+gap: 20px;
+}
+.foot{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    border-radius: 16px;
+    padding-left: 5px;
+    padding-right: 5px;
+    max-width:424px;
+height: 450px;
+gap: 20px;
+}
+.valo{
+    max-width: 400px;
+}
+.masseg-box{
+    width: 150px;
+height: 150px;
+margin-left: 545px;
+margin-right: 585px;
+margin-top: 85px;
+}
+.subscribe{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+
+}
+#new{
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+.amet{
+    text-align: center;
+}
+#the-boy{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+max-width: 800px;
+margin-left: 20%;
+margin-top: 0%;
+}
+.input-box{
+    width:448px; 
+    height:60px;
+    margin-left: 27%;
+}
+button{
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+}
+.sub{
+    gap: 0px;
+}
+.null-box{
+    background-color: orange;
+}
+.classes{
+    padding-bottom: 70px;
+}
+
