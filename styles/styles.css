@@ -60,6 +60,7 @@ line-height: normal;
 height: 500px;
 flex-shrink: 0;
 margin-left: 16%;
+margin-bottom: 50px;
 }
 .omg{
     color: #ffffff;
@@ -75,6 +76,7 @@ line-height: 88px;
 margin-left: 10%;
 letter-spacing: 7.04px;
 margin-top: 0%;
+margin-bottom: 0%;
 
 }
 .bg-img{
@@ -84,11 +86,12 @@ width: 1320px;
 height: 600px;
 flex-shrink: 0;
 display: flex;
-
-
+}
+.sub-img{
+    margin-right: 50px;
 }
 .contribute{
-    color: rgba(255, 21, 21, 0.8);
+    color: rgba(255, 255, 255, 0.8);
 font-family: inherit;
 font-size: 18px;
 font-style: normal;
@@ -96,24 +99,45 @@ font-weight: 400;
 line-height: 30px; 
 margin-left: 127px;
 margin-right: 497px;
+margin-top: 0%;
 }
 .new-you{
     margin: 80px auto;
     margin-right: 30px;
 }
 .join-now{
-    margin-top: 0%;
+
     margin-bottom: 300px;
 }
 .now{
     margin-left: 13%;
+    
+
 }
 .new-park{
     text-align: center;
     font-size: 32px;
 }
-span{
+.brac{
+    display: flex;
+    margin-left: 415px;
+    margin-bottom: 0px;
+}
+.empty{
+    display: flex;
+    margin-left: 415px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.midest{
+    display: flex;
+    margin-left: 415px;
+    margin-top: 0%;
+
+}
+.december{
     color: #F00;
+
 }
 .button{
     padding: 16px 32px;
@@ -132,12 +156,14 @@ span{
 }
 .soon{
     font-size: 42px;
-    margin-top: 0%;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 .dolar{
     font-size: 20px;
     height: 120px;
     width: 500px;
+    margin-top: 0%;
 }
 .url{
     background-color: red;
@@ -403,6 +429,70 @@ flex-shrink: 0;
 }
 .img-l{
     position: absolute;
-    top: 90px;
-    left: 180px;
+    
+    left: 55%;
+
+}
+footer{
+    background: #070211;
+}
+.building{
+    color: white;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-top: 90px;
+}
+.flexi{
+    display: flex;
+}
+.call{
+    width: 24px;
+height: 40px;
+}
+.florida{
+    display: flex;
+    margin-left: 100px;   
+}
+.webpage{
+    margin-top: 80px;
+}
+hr{
+    background:rgba(255, 255, 255, 0.15);;
+    color: white;
+}
+.favicon{
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+display: flex;
+margin-left: 450px;
+margin-top: 50px;
+}
+.right{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+line-height: normal;
+margin-top: 60px;
+margin-left: 120px;
+}
+.division{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+line-height: normal;
+margin-right: 150px;
+margin-top: 60px;
+}
+.horrizin{
+    display: flex;
+    justify-content: space-between;
+}
+.break{
+    margin-bottom: 30px;
 }
